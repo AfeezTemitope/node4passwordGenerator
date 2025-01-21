@@ -10,4 +10,4 @@ const generateRandomPassword = (): string => {
 }
 
 
-export default generateRandomPassword()
+export default generateRandomPassword
